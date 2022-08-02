@@ -3,7 +3,10 @@
   <img width="250" src="https://c.tenor.com/3ouls7liJcQAAAAC/golden-state-warriors-steph-curry.gif">
 </p>
 
-<p>I am an aspiring Software Engineer who is a great critical thinker and loves solving problems that make people's lives easier. With a prior background in tech sales, I am a great communicator who is very organized, hard-working, and understands what it takes to succeed. I look forward to starting a career in engineering and welcome all the challenges I may face. </p>
+<p>🌉 Originally from SF Bay Area</p>
+<p>🏛 General Assembly Software Engineering Immersive Student in Washington, DC</p>
+<p>🦅 Computer Science and Business Administration @ American University '21</p>
+
 
 
 <p align="center">
