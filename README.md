@@ -3,11 +3,11 @@
   <img width="250" src="https://c.tenor.com/3ouls7liJcQAAAAC/golden-state-warriors-steph-curry.gif">
 </p>
 
-<p>🌉 Originally from SF Bay Area</p>
-<p>🏛 General Assembly Software Engineering Immersive Student in Washington, DC</p>
-<p>🦅 Computer Science and Business Administration @ American University '21</p>
+<p align="center">🌉 Originally from SF Bay Area 🌉 </p>
+<p align="center">🏛 General Assembly Software Engineering Immersive Student in Washington, DC 🏛 </p>
+<p align="center">🦅 Computer Science and Business Administration @ American University '21 🦅</p>
 
-
+***
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=anovick1&show_icons=false" height="200px" >
