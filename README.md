@@ -1,4 +1,4 @@
-<h1 align="center" /> Hi Welcome to my Github! </h1>
+<h1 align="center" /> Welcome to my Github! </h1>
 <p align="center">
   <img width="250" src="https://c.tenor.com/3ouls7liJcQAAAAC/golden-state-warriors-steph-curry.gif">
 </p>
