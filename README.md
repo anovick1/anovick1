@@ -10,10 +10,10 @@
 ***
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=anovick1&show_icons=true&theme=solarized-light" width="500px" >
+<img src="https://github-readme-stats.vercel.app/api?username=anovick1&show_icons=true&theme=solarized-light" width="400px"  >
 </p>
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anovick1&layout=compact&theme=solarized-light" width="500px" >
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anovick1&layout=compact&theme=solarized-light" width="400px"  >
 </p>
 
 
