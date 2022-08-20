@@ -5,7 +5,7 @@
 
 <p align="center">🌉 Originally from SF Bay Area 🌉 </p>
 <p align="center">🏛 General Assembly Software Engineering Immersive Student in Washington, DC 🏛 </p>
-<p align="center">🦅 Computer Science and Business Administration @ American University '21 🦅</p>
+<p align="center">🦅 Computer Science and Business Administration Double Major @ American University '21 🦅</p>
 
 ***
 
