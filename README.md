@@ -3,8 +3,8 @@
   <img width="250" src="https://c.tenor.com/3ouls7liJcQAAAAC/golden-state-warriors-steph-curry.gif">
 </p>
 
-<p align="center">🌉 Originally from SF Bay Area 🌉 </p>
-<p align="center">🏛 General Assembly Software Engineering Immersive '22 Grad in Washington, DC 🏛 </p>
+<p align="center">🌉 San Francisco, California 🌉 </p>
+<p align="center"> General Assembly Software Engineering Immersive '22 Grad</p>
 <p align="center">🦅 Computer Science and Business Administration Double Major @ American University '21 🦅</p>
 
 ***
