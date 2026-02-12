@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">🌴 Los Angeles, California 🌴 </p>
-<p align="center">✌️ University of Souther California Master's of Computer Science Student ✌️</p>
+<p align="center">✌️ University of Southern California Master's of Computer Science Student ✌️</p>
 <p align="center"> General Assembly Software Engineering Immersive '22 Grad</p>
 <p align="center">🦅 Computer Science and Business Administration Double Major @ American University '21 🦅</p>
 
