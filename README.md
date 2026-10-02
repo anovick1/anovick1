@@ -28,7 +28,9 @@
 | --- | --- | --- |
 | [HoopsOracle](https://github.com/anovick1/HoopsOracle) | Watches NBA games at possession cadence, asks a local decision model a fixed set of typed questions (winner, next shooter, run continues, comeback), grades every answer against what actually happened, and keeps score with accuracy, Brier and ECE per question | Python, local open-weight LLM, fine-tuning |
 | [Wardrobe](https://github.com/anovick1/wardobe-frontend) | Photograph your clothes, it catalogs them and recommends outfits from what you own, the weather and your style. FashionCLIP embeddings + Qdrant vector search, sub-second similarity. [Backend](https://github.com/anovick1/wardobe-backend) · [Embedding service](https://github.com/anovick1/wardrobe-embed-service) | React Native, Flask, FastAPI, Qdrant, PyTorch, Celery, Redis |
+| [Hallucination-resistant multi-hop QA](https://github.com/anovick1/hallucination_resistant_multihop_qna) | Zero-shot RAG for HotpotQA: hybrid BM25 + FAISS retrieval, cross-encoder reranking, NLI-style verification. 46.8% EM, 59.5% token F1, 94.3% BERTScore F1 on 7,405 examples. Group project, USC | Python, FAISS, BM25, Ollama (Gemma, Qwen) |
 | [MedIC](https://github.com/anovick1/MedIC) | Offline-first field triage app for combat medics: TBI risk assessment without imaging, on-device Qwen3 guidance, and a FastAPI resupply engine that turns assessments into drone-ready payloads | React Native, TypeScript, FastAPI, Qwen3 |
+| [Financial Portfolio Assistant](https://github.com/anovick1/USC-CSCI544-FINAL_PROJECT) | Ask questions about your portfolio and filings in plain English: Text-to-SQL over personal finance data, RAG over financial documents, earnings-call sentiment. Group project, USC CSCI 544 | Python, FastAPI, React, LangChain, FAISS |
 
 <h3 align="center">Toolbox</h3>
 <p align="center">
