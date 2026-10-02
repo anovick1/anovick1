@@ -28,9 +28,7 @@
 | --- | --- | --- |
 | [HoopsOracle](https://github.com/anovick1/HoopsOracle) | Watches NBA games at possession cadence, asks a local decision model a fixed set of typed questions (winner, next shooter, run continues, comeback), grades every answer against what actually happened, and keeps score with accuracy, Brier and ECE per question | Python, local open-weight LLM, fine-tuning |
 | [Wardrobe](https://github.com/anovick1/wardobe-frontend) | Photograph your clothes, it catalogs them and recommends outfits from what you own, the weather and your style. FashionCLIP embeddings + Qdrant vector search, sub-second similarity. [Backend](https://github.com/anovick1/wardobe-backend) · [Embedding service](https://github.com/anovick1/wardrobe-embed-service) | React Native, Flask, FastAPI, Qdrant, PyTorch, Celery, Redis |
-| [BraTS-MEN](https://github.com/anovick1/BraTS-MEN) | Attention-enhanced 3D DynUNet for meningioma segmentation across four MRI sequences, focused on tiny-lesion detection and false-positive control (USC research) | PyTorch, MONAI |
 | [MedIC](https://github.com/anovick1/MedIC) | Offline-first field triage app for combat medics: TBI risk assessment without imaging, on-device Qwen3 guidance, and a FastAPI resupply engine that turns assessments into drone-ready payloads | React Native, TypeScript, FastAPI, Qwen3 |
-| Hallucination-resistant multi-hop QA | Zero-shot RAG for HotpotQA: hybrid BM25 + FAISS retrieval, cross-encoder reranking, NLI-style verification. 46.8% EM, 59.5% token F1, 94.3% BERTScore F1 on 7,405 examples. [Write-up](https://averynovick.dev) | Python, FAISS, BM25, Ollama (Gemma, Qwen) |
 
 <h3 align="center">Toolbox</h3>
 <p align="center">
